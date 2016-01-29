@@ -1,0 +1,20 @@
+[I/O]
+sites = Bat, Bol
+filename = Allsites_csvfile_v1.csv.csv
+zeroed = False
+
+; NOTES:
+; - everything is case-sensitive
+; - minimum number of sites is two, maximum is four
+; - choices for sites:
+; 'Agb' 'Ant' 'Bay' 'Blc' 'Bol' 'Bos' 'Car' 'Cud' 'Dad' 'Gam' 'Hum' 'Kan' 'Kib' 'Lip' 'Lpt' 'Mac' 'Mam' 'Mar' 'Nin' 'Osl' 'Par' 'Pla' 'Sin' 'Tue' 'Umi'
+; -set zeroed to TRUE if you want to initial measurements at 0. 
+; -please include the file extension ".csv" at the end of the filename
+; -p value is computed when last 2 consecutive data differs by <1cm
+;	1. This is to test whether an error is possibly present in the obtained data
+;	2. A p-value of > 0.05 indicates that a strong agreement with the null hypothesis, hence
+;	   no increasing/decreasing trend is seen in the ground movement.
+;	   This may be used to validate or invalidate an L1 reading
+;	3. The last 4 data points is taken in contrast to a fixed time range, to ensure a p value
+;	   is computed. A fixed time range offers more focus on the relevant range of data although
+;	   the objective of (1) is still obtained if the last 4 available data is used.
