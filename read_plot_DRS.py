@@ -219,17 +219,34 @@ while True:
     sitelist = sitelist.replace(' ', '')
     sitelist = sitelist.title()
     slist = sitelist.split(',')
+    for i in slist:
+        if not (i in choices):
+            print "No site '{}' in the database.".format(i)    
+            
     if len(slist) > 4:
         print "{} sites chosen. Please choose only a maximum of 4 sites.".format(len(slist))
         print "Check your input and try again."
         continue
-    for i in slist:
-        if not (i in choices):
-            print "No site '{}' in the database.".format(i)
-            print "Please check you input and try again"
-            break
+
     if not(i in choices):
+        print "Please check you input and try again"
         continue
+    
     else:
         break
+
+while True:
+    zeroed = raw_input("Do you want the initial measurements to be set at 0? (Y or N): ")
+    zeroed = zeroed.title()
+    zeroed = zeroed[0]
+    if (zeroed != 'Y') and (zeroed != 'N'):
+        print "Please answer 'Yes' or 'No'"
+        continue
+    else:
+        if zeroed == 'Y':
+            zeroed = True
+        else:
+            zeroed = False
+        break
+
 plot_cracks(filename,slist,zeroed)
