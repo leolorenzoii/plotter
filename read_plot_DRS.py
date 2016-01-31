@@ -17,7 +17,7 @@ def plot_cracks(filename,which_site,zeroed=True):
 
     p_value = []
 #    df=pd.read_csv(filename,sep=',',header=0,usecols=[0,1,2,3,4,5],parse_dates=[['Date','Time']],na_values=[])
-    df=pd.read_csv(filename,usecols=[0,1,2,3,4,5], names=['Date', 'Time', 'Site ID', 'Feature ID', 'Reliable', 'Measurement'],parse_dates=[['Date','Time']])
+    df=pd.read_csv(filename,usecols=[0,1,2,3,4,5], names=['Date', 'Time', 'Site ID', 'Feature ID', 'Reliable', 'Measurement'],parse_dates=[['Date','Time']],skiprows = 1)
 #    df=df[df['Feat. Desc.']=='N']
     df=df[df['Measurement']!=' ']
     df=df[df['Measurement']!='']
@@ -184,7 +184,7 @@ print "############################################################\n"
 while True:
     try:
         filename = raw_input("Input filename of the allsites file: ")
-        df=pd.read_csv(filename,usecols=[2], names=['Site ID'])
+        df=pd.read_csv(filename,usecols=[2], names=['Site ID'],skiprows = 1)
     except IOError:
         print "File '{}' does not exist.".format(filename)
         print "Please check the filename and try again. :)"
