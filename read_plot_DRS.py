@@ -100,7 +100,7 @@ def plot_cracks(filename,which_site,zeroed=True):
             time_data = crack_data['t'].values
             
             try:
-                if data[-2]-data[-1] <= 1:
+                if abs(data[-2]-data[-1]) <= 1:
                     m, b, r, p, std = stats.linregress(time_data,data)            
                     site_p.append(p)
                     site_num_data.append(len(data))
