@@ -1,5 +1,5 @@
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, date, time, timedelta
 import pandas as pd
 from pandas.stats.api import ols
 import numpy as np
@@ -15,8 +15,23 @@ import generic_functions as gf
 import generateProcMonitoring as genproc
 import alertEvaluation as alert
 
-#Step 0: Specify mode of output, mode = 1: txt1; mode = 2 txt 2; mode = 3 json1; mode = 4 json2
-mode = 1
+#Step 0: Specify mode of output, mode = 1: txt1; mode = 2 txt 2; mode = 3 json
+mode = 3
+
+#Set the date of the report as the current date rounded to HH:30 or HH:00
+end=datetime.now()
+end_Year=end.year
+end_month=end.month
+end_day=end.day
+end_hour=end.hour -12
+end_minute=end.minute
+if end_minute<30:end_minute=0
+else:end_minute=30
+
+end=datetime.combine(date(end_Year,end_month,end_day),time(end_hour,end_minute,0))
+
+
+
 
 #Step 1: Get the ground data from local database 
 
@@ -156,4 +171,21 @@ if mode == 2:
     for galert, site in ground_alert_release2:
         print "{:3}: {}".format(galert, ','.join(sorted(site)))
 
-
+if mode == 3:
+    #create data frame as for easy conversion to JSON format
+    
+    for i in range(len(ground_alert_release)): ground_alert_release[i] = (end,) + ground_alert_release[i]
+    dfa = pd.DataFrame(ground_alert_release,columns = ['timestamp','site','alert'])
+    
+    #converting the data frame to JSON format
+    dfajson = dfa.to_json(orient="records",date_format='iso')
+    
+    #ensuring proper datetime format
+    i = 0
+    while i <= len(dfajson):
+        if dfajson[i:i+9] == 'timestamp':
+            dfajson = dfajson[:i] + dfajson[i:i+36].replace("T"," ").replace("Z","").replace(".000","") + dfajson[i+36:]
+            i += 1
+        else:
+            i += 1
+    print dfajson
