@@ -16,19 +16,22 @@ import generateProcMonitoring as genproc
 import alertEvaluation as alert
 
 #Step 0: Specify mode of output, mode = 1: txt1; mode = 2 txt 2; mode = 3 json
-mode = 3
+mode = 1
 
 #Set the date of the report as the current date rounded to HH:30 or HH:00
 end=datetime.now()
 end_Year=end.year
 end_month=end.month
 end_day=end.day
-end_hour=end.hour -12
+end_hour=end.hour
 end_minute=end.minute
 if end_minute<30:end_minute=0
 else:end_minute=30
 
 end=datetime.combine(date(end_Year,end_month,end_day),time(end_hour,end_minute,0))
+
+#Set the container of the date of measurements
+measurement_dates = []
 
 
 
@@ -64,8 +67,9 @@ for cur_site in sitelist:
     df_cur_site = df[df['site']==cur_site]
     df_cur_site.sort(inplace = True)    
     
-    #get the latest timestamp as reference for the latest data
+    #get the latest timestamp as reference for the latest data record it on the date of measurement container
     last_data_time = df_cur_site.index[-1]
+    measurement_dates.append(last_data_time)
     
     print df_cur_site
     
@@ -161,20 +165,27 @@ for cur_site in sitelist:
     ground_alert_release = sorted(ground_data_alert.items())
     
 if mode == 1:
+    print "Ground measurement report as of {}".format(end)
+    print "{:5}: {:5}; Date of Measurement".format('Site','Alert')
+    i = 0
     for site, galert in ground_alert_release:
-        print "{:5}: {}".format(site,galert)
-if mode == 2:
-    ground_data_alert2 = {}
-    for site, galert in ground_data_alert.iteritems():
-        ground_data_alert2.setdefault(galert, []).append(site)
-    ground_alert_release2 = sorted(ground_data_alert2.items())
-    for galert, site in ground_alert_release2:
-        print "{:3}: {}".format(galert, ','.join(sorted(site)))
+        print "{:5}: {:5}; {}".format(site,galert,measurement_dates[i])
+        i += 1
+#if mode == 2:
+#    print "As of {}".format(end)
+#    ground_data_alert2 = {}
+#    for site, galert in ground_data_alert.iteritems():
+#        ground_data_alert2.setdefault(galert, []).append(site)
+#    ground_alert_release2 = sorted(ground_data_alert2.items())
+#    i = 0
+#    for galert, site in ground_alert_release2:
+#        print "{:3}: {}; {}".format(galert, ','.join(sorted(site)), measurement_dates[i])
+#        i += 1
 
 if mode == 3:
     #create data frame as for easy conversion to JSON format
     
-    for i in range(len(ground_alert_release)): ground_alert_release[i] = (end,) + ground_alert_release[i]
+    for i in range(len(ground_alert_release)): ground_alert_release[i] = (measurement_dates[i],) + ground_alert_release[i]
     dfa = pd.DataFrame(ground_alert_release,columns = ['timestamp','site','alert'])
     
     #converting the data frame to JSON format
