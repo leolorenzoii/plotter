@@ -1,6 +1,6 @@
 [I/O]
-sites = Bat, Bol
-filename = Allsites_csvfile_v1.csv.csv
+sites = Lay, Bol
+filename = allsites.csv
 zeroed = False
 
 ; NOTES:
