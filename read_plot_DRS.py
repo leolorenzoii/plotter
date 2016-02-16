@@ -17,10 +17,12 @@ def plot_cracks(filename,which_site,zeroed=True):
 
     p_value = []
 #    df=pd.read_csv(filename,sep=',',header=0,usecols=[0,1,2,3,4,5],parse_dates=[['Date','Time']],na_values=[])
-    df=pd.read_csv(filename,usecols=[0,1,2,3,4,5], names=['Date', 'Time', 'Site ID', 'Feature ID', 'Reliable', 'Measurement'],parse_dates=[['Date','Time']],skiprows = 1)
+    df=pd.read_csv(filename,usecols=[0,1,2,3,4,5], names=['Date', 'Time', 'Site ID', 'Feature ID', 'Type', 'Measurement'],parse_dates=[['Date','Time']],skiprows = 1)
 #    df=df[df['Feat. Desc.']=='N']
-    df=df[df['Measurement']!=' ']
-    df=df[df['Measurement']!='']
+#    df=df[df['Measurement']!=' ']
+#    df=df[df['Measurement']!='']
+    df=df[df['Type']!='H']
+    df=df[df['Type']!='V']
     df=df[df['Measurement']!=np.nan]
     df=df[df['Date_Time']!=' ']
     df=df[df['Site ID']!=' ']
@@ -100,7 +102,7 @@ def plot_cracks(filename,which_site,zeroed=True):
             time_data = crack_data['t'].values
             
             try:
-                if abs(data[-2]-data[-1]) <= 1:
+                if abs(data[-2]-data[-1]) <= 1 or True:
                     m, b, r, p, std = stats.linregress(time_data,data)            
                     site_p.append(p)
                     site_num_data.append(len(data))
@@ -122,16 +124,14 @@ def plot_cracks(filename,which_site,zeroed=True):
                 curfeature.plot('Date_Time','Measurement_0',
                                 marker=marker[f%len(marker)],
                                 color=colorVal[f],
-                                label=features[f],
+                                label=str(features[f]),
                                 ax=curax)
+                print features[f]
             else:
-
-                curfeature.plot('Date_Time','Measurement',
-                                marker=marker[f%len(marker)],
-                                color=colorVal[f],
-                                label=features[f],
-                                ax=curax)
-     
+                curax.plot(curfeature['Date_Time'].values,curfeature['Measurement'],marker=marker[f%len(marker)],color=colorVal[f],label=features[f])
+                curax.grid(True)
+#                curfeature.plot('Date_Time','Measurement',marker=marker[f%len(marker)],color=colorVal[f],label=features[f],ax=curax)
+                print features[f]
         all_max_feature_name.append(site_max_feature_name)
         all_features.append(site_features)
         p_value.append(site_p)
@@ -140,10 +140,13 @@ def plot_cracks(filename,which_site,zeroed=True):
         curax.set_xlabel('')
         curax.set_ylabel(sitelist[s])
         
-        curax.legend(fontsize='xx-small',loc='upper left')
+        curax.legend(fontsize='xx-small',loc='best')
         ax_ind=ax_ind+1
 
         curax.set_xlim(min_date,max_date)
+        plt.xticks(rotation = 45)
+        plt.savefig('C:\Users\Dynaslope\Desktop\plotter\\'+str(sitelist[s])+' Ground Data Plot.png', dpi=600, facecolor ='w', edgecolor = 'w', orientation = 'landscape',mode = 'w',pad_inches = 0.5,bbox_inches = 'tight')
+            
     
     fig.tight_layout()
     for i in range(len(all_sites)):
