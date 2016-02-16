@@ -2882,10 +2882,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 4/27/2015,13:24:00,Nag,Crack 4,H,29,,kalsada,Dry,"Salvador, Hermenia"
 4/27/2015,13:24:00,Nag,Crack 4,V,5.4,,kalsada,Dry,"Salvador, Hermenia"
 4/27/2015,13:24:00,Nag,Crack 5,,598,,gilid ng kalsada,Dry,"Hermenia, Luisa"
-4/27/2015,13:24:00,Nag,Crack 6,,580,,gilid ng kalsada,Dry,"Luisa, Hermenia"
-4/27/2015,13:24:00,Nag,Crack 6,,390,,gilid ng kalsada,Dry,"Luisa, Hermenia"
-4/27/2015,13:24:00,Nag,Crack 7,,750,,gitna ng bukid,Dry,"Luisa, Hermenia"
-4/27/2015,13:24:00,Nag,Crack 7,,344,,gitna ng bukid,Dry,"Luisa, Hermenia"
+4/27/2015,13:24:00,Nag,Crack 6,,970,,gilid ng kalsada,Dry,"Luisa, Hermenia"
+4/27/2015,13:24:00,Nag,Crack 7,,1094,,gitna ng bukid,Dry,"Luisa, Hermenia"
 4/28/2015,7:10:00,Blc,Crack G,N,47,Y,I-NE,Sunny,Babylyn Gregorio
 4/28/2015,7:00:00,Blc,Crack H,N,53,Y,Ta-NW,Sunny,Babylyn Gregorio
 4/28/2015,2:00:00,Kib,Crack A,N,138.6,Y,Sa gilid ng multi-purpose hall,Dry,Aventino Baldisco
@@ -3002,10 +3000,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 5/4/2015,13:20:00,Nag,Crack 4,H,29,,kalsada,Dry,"Salvador, Hermenia"
 5/4/2015,13:20:00,Nag,Crack 4,V,6,,kalsada,Dry,"Salvador, Hermenia"
 5/4/2015,13:20:00,Nag,Crack 5,,598,,gilid ng kalsada,Dry,"Salvador, Lolita"
-5/4/2015,13:20:00,Nag,Crack 6,,575,,gilid ng kalsada,Dry,"Salvador, Lolita"
-5/4/2015,13:20:00,Nag,Crack 6,,390,,gilid ng kalsada,Dry,"Salvador, Lolita"
-5/4/2015,13:20:00,Nag,Crack 7,,750,,gitna ng bukid,Dry,"Salvador, Lolita"
-5/4/2015,13:20:00,Nag,Crack 7,,381,,gitna ng bukid,Dry,"Salvador, Lolita"
+5/4/2015,13:20:00,Nag,Crack 6,,965,,gilid ng kalsada,Dry,"Salvador, Lolita"
+5/4/2015,13:20:00,Nag,Crack 7,,1131,,gitna ng bukid,Dry,"Salvador, Lolita"
 5/5/2015,16:00:00,Cud,Crack 7,N,4,Q,Floor outside Bolla's Residence,Sunny,William
 5/5/2015,16:10:00,Cud,Crack 8,N,3,Q,National Road,Sunny,William
 5/5/2015,16:20:00,Cud,Crack 9,N,5,Q,Floor outside Hermine's Residence,Sunny,William
@@ -3121,10 +3117,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 5/11/2015,13:30:00,Nag,Crack 4,H,29,,kalsada,Dry,"Luisa, Lolita"
 5/11/2015,13:30:00,Nag,Crack 4,V,6,,kalsada,Dry,"Luisa, Lolita"
 5/11/2015,13:30:00,Nag,Crack 5,,598,,gilid ng kalsada,Dry,"Luisa, Hermenia"
-5/11/2015,13:30:00,Nag,Crack 6,,575,,gilid ng kalsada,Dry,"Luisa, Hermenia"
-5/11/2015,13:30:00,Nag,Crack 6,,390,,gilid ng kalsada,Dry,"Luisa, Hermenia"
-5/11/2015,13:30:00,Nag,Crack 7,,750,,gitna ng bukid,Dry,"Luisa, Hermenia"
-5/11/2015,13:30:00,Nag,Crack 7,,381,,gitna ng bukid,Dry,"Luisa, Hermenia"
+5/11/2015,13:30:00,Nag,Crack 6,,965,,gilid ng kalsada,Dry,"Luisa, Hermenia"
+5/11/2015,13:30:00,Nag,Crack 7,,1131,,gitna ng bukid,Dry,"Luisa, Hermenia"
 5/12/2015,16:10:00,Cud,Crack 7,N,4,Q,Floor outside Bolla's Residence,Sunny,William
 5/12/2015,16:30:00,Cud,Crack 8,N,3,Q,National Road,Sunny,William
 5/12/2015,16:30:00,Cud,Crack 9,N,5,Q,Floor outside Hermine's Residence,Sunny,William
@@ -3242,10 +3236,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 5/18/2015,14:10:00,Nag,Crack 4,H,29,,kalsada,Dry,"Salvador, Hermenia"
 5/18/2015,14:10:00,Nag,Crack 4,V,6,,kalsada,Dry,"Salvador, Hermenia"
 5/18/2015,14:10:00,Nag,Crack 5,,598,,gilid ng kalsada,Dry,"Salvador, Lolita, Luisa"
-5/18/2015,14:10:00,Nag,Crack 6,,575,,gilid ng kalsada,Dry,"Salvador, Lolita, Luisa"
-5/18/2015,14:10:00,Nag,Crack 6,,390,,gilid ng kalsada,Dry,"Salvador, Lolita, Luisa"
-5/18/2015,14:10:00,Nag,Crack 7,,750,,gitna ng bukid,Dry,"Salvador, Lolita, Luisa"
-5/18/2015,14:10:00,Nag,Crack 7,,381,,gitna ng bukid,Dry,"Salvador, Lolita, Luisa"
+5/18/2015,14:10:00,Nag,Crack 6,,965,,gilid ng kalsada,Dry,"Salvador, Lolita, Luisa"
+5/18/2015,14:10:00,Nag,Crack 7,,1131,,gitna ng bukid,Dry,"Salvador, Lolita, Luisa"
 5/19/2015,16:30:00,Cud,Crack 7,N,4,Q,Floor outside Bolla's Residence,Rainy,William
 5/19/2015,16:45:00,Cud,Crack 8,N,3,Q,National Road,Rainy,William
 5/19/2015,16:45:00,Cud,Crack 9,N,5,Q,Floor outside Hermine's Residence,Rainy,William
@@ -3359,10 +3351,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 5/25/2015,13:35:00,Nag,Crack 4,H,29,,kalsada,Dry,"Luisa, Lolita"
 5/25/2015,13:35:00,Nag,Crack 4,V,6,,kalsada,Dry,"Luisa, Lolita"
 5/25/2015,13:35:00,Nag,Crack 5,,598,,gilid ng kalsada,Dry,"Luisa, Hermenia"
-5/25/2015,13:35:00,Nag,Crack 6,,575,,gilid ng kalsada,Dry,"Luisa, Hermenia"
-5/25/2015,13:35:00,Nag,Crack 6,,390,,gilid ng kalsada,Dry,"Luisa, Hermenia"
-5/25/2015,13:35:00,Nag,Crack 7,,750,,gitna ng bukid,Dry,"Luisa, Hermenia"
-5/25/2015,13:35:00,Nag,Crack 7,,381,,gitna ng bukid,Dry,"Luisa, Hermenia"
+5/25/2015,13:35:00,Nag,Crack 6,,965,,gilid ng kalsada,Dry,"Luisa, Hermenia"
+5/25/2015,13:35:00,Nag,Crack 7,,1131,,gitna ng bukid,Dry,"Luisa, Hermenia"
 5/26/2015,15:50:00,Cud,Crack 7,N,4,Q,Floor outside Bolla's Residence,Rainy,William
 5/26/2015,16:05:00,Cud,Crack 8,N,3,Q,National Road,Rainy,William
 5/26/2015,16:25:00,Cud,Crack 9,N,5,Q,Floor outside Hermine's Residence,Rainy,William
@@ -3505,9 +3495,7 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 6/5/2015,8:00:00,Nag,Crack 4,H,29,,kalsada,Dry,Elezar
 6/5/2015,8:00:00,Nag,Crack 4,V,9,,kalsada,Dry,Elezar
 6/5/2015,8:00:00,Nag,Crack 5,,598,,gilid ng kalsada 1,Dry,Ernesto
-6/5/2015,8:00:00,Nag,Crack 6,,575,,gilid ng kalsada 2,Dry,Irish
-6/5/2015,8:00:00,Nag,Crack 6,,391,,gilid ng kalsada 2,Dry,Irish
-6/5/2015,8:00:00,Nag,Crack 7,,10971,,gilid ng kalsada 3,Dry,Luisa Bacani
+6/5/2015,8:00:00,Nag,Crack 6,,966,,gilid ng kalsada 2,Dry,Irish
 6/5/2015,8:00:00,Nag,Crack 8,,465,,labas ng bahay,Dry,Luisa Bacani
 6/5/2015,8:00:00,Nag,Crack 8,,94,,labas ng bahay,Dry,Luisa Bacani
 6/5/2015,7:30:00,Pep,Post 1,N,66.7,Y,Near Edmundo's,Tag-araw,Kgwd. Calcaben
@@ -4029,10 +4017,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 7/3/2015,8:00:00,Nag,Crack 4,,29,,kalsada,Wet,Luisa Bacani
 7/3/2015,8:00:00,Nag,Crack 4,,6,,kalsada,Wet,Luisa Bacani
 7/3/2015,8:00:00,Nag,Crack 5,,598,,gilid ng kalsada 1,Wet,Luisa Bacani
-7/3/2015,8:00:00,Nag,Crack 6,,575,,gilid ng kalsada 2,Wet,Luisa Bacani
-7/3/2015,8:00:00,Nag,Crack 6,,390,,gilid ng kalsada 2,Wet,Luisa Bacani
-7/3/2015,8:00:00,Nag,Crack 7,,750,,gilid ng kalsada 3,Wet,Luisa Bacani
-7/3/2015,8:00:00,Nag,Crack 7,,381,,gilid ng kalsada 3,Wet,Luisa Bacani
+7/3/2015,8:00:00,Nag,Crack 6,,965,,gilid ng kalsada 2,Wet,Luisa Bacani
+7/3/2015,8:00:00,Nag,Crack 7,,1131,,gilid ng kalsada 3,Wet,Luisa Bacani
 7/3/2015,8:00:00,Nag,Crack 8,,465,,labas ng bahay,Wet,Luisa Bacani
 7/3/2015,8:00:00,Nag,Crack 8,,94,,labas ng bahay,Wet,Luisa Bacani
 7/3/2015,17:15:00,Nur,Crack 1,N,96,Y,taas ng bundok,Maaraw,Jocelyn Taroy
@@ -4946,10 +4932,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 8/7/2015,9:30:00,Nag,Crack 4,H,29,,kalsada,,Luisa Bacani
 8/7/2015,9:30:00,Nag,Crack 4,V,9,,kalsada,,Luisa Bacani
 8/7/2015,9:30:00,Nag,Crack 5,,598,,gilid ng kalsada 1,,Luisa Bacani
-8/7/2015,9:30:00,Nag,Crack 6,,575,,gilid ng kalsada 2,,Luisa Bacani
-8/7/2015,9:30:00,Nag,Crack 6,,390,,gilid ng kalsada 2,,Luisa Bacani
-8/7/2015,9:30:00,Nag,Crack 7,,750,,gilid ng kalsada 3,,Luisa Bacani
-8/7/2015,9:30:00,Nag,Crack 7,,381,,gilid ng kalsada 3,,Luisa Bacani
+8/7/2015,9:30:00,Nag,Crack 6,,965,,gilid ng kalsada 2,,Luisa Bacani
+8/7/2015,9:30:00,Nag,Crack 7,,1131,,gilid ng kalsada 3,,Luisa Bacani
 8/7/2015,9:30:00,Nag,Crack 8,,480,,labas ng bahay,,Luisa Bacani
 8/7/2015,9:30:00,Nag,Crack 8,,94,,labas ng bahay,,Luisa Bacani
 8/7/2015,9:30:00,Nag,Crack 9,,9,,tabi ng solar panel,,Luisa Bacani
@@ -6437,8 +6421,7 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 9/15/2015,9:00:00,Nag,Crack 5,N,618,,,,Luisa Bacani
 9/15/2015,9:00:00,Nag,Crack 6,N,575,,,,Luisa Bacani
 9/15/2015,9:00:00,Nag,Crack 6,N,391,,,,Luisa Bacani
-9/15/2015,9:00:00,Nag,Crack 7,N,750,,,,Luisa Bacani
-9/15/2015,9:00:00,Nag,Crack 7,N,385,,,,Luisa Bacani
+9/15/2015,9:00:00,Nag,Crack 7,N,1135,,,,Luisa Bacani
 9/15/2015,9:00:00,Nag,Crack 8,N,480,,,,Luisa Bacani
 9/15/2015,9:00:00,Nag,Crack 8,V,94,,,,Luisa Bacani
 9/15/2015,9:00:00,Nag,Crack 9,N,29,,,,Luisa Bacani
@@ -6574,8 +6557,7 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 9/18/2015,9:00:00,Nag,Crack 5,N,618,,,,Luisa Bacani
 9/18/2015,9:00:00,Nag,Crack 6,N,575,,,,Luisa Bacani
 9/18/2015,9:00:00,Nag,Crack 6,N,391,,,,Luisa Bacani
-9/18/2015,9:00:00,Nag,Crack 7,N,750,,,,Luisa Bacani
-9/18/2015,9:00:00,Nag,Crack 7,N,385,,,,Luisa Bacani
+9/18/2015,9:00:00,Nag,Crack 7,N,1135,,,,Luisa Bacani
 9/18/2015,9:00:00,Nag,Crack 8,N,480,,,,Luisa Bacani
 9/18/2015,9:00:00,Nag,Crack 8,V,94,,,,Luisa Bacani
 9/18/2015,9:00:00,Nag,Crack 9,N,29,,,,Luisa Bacani
@@ -6685,8 +6667,7 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 9/22/2015,8:30:00,Nag,Crack 5,N,618,,,,Luisa Bacani
 9/22/2015,8:30:00,Nag,Crack 6,N,575,,,,Luisa Bacani
 9/22/2015,8:30:00,Nag,Crack 6,N,391,,,,Luisa Bacani
-9/22/2015,8:30:00,Nag,Crack 7,N,750,,,,Luisa Bacani
-9/22/2015,8:30:00,Nag,Crack 7,N,395,,,,Luisa Bacani
+9/22/2015,8:30:00,Nag,Crack 7,N,1145,,,,Luisa Bacani
 9/22/2015,8:30:00,Nag,Crack 8,N,480,,,,Luisa Bacani
 9/22/2015,8:30:00,Nag,Crack 8,V,94,,,,Luisa Bacani
 9/22/2015,8:30:00,Nag,Crack 9,N,29,,,,Luisa Bacani
@@ -6796,8 +6777,7 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 9/25/2015,8:30:00,Nag,Crack 5,N,378.4,,,,Luisa Bacani
 9/25/2015,8:30:00,Nag,Crack 6,N,552,,,,Luisa Bacani
 9/25/2015,8:30:00,Nag,Crack 6,N,394,,,,Luisa Bacani
-9/25/2015,8:30:00,Nag,Crack 7,H,745,,,,Luisa Bacani
-9/25/2015,8:30:00,Nag,Crack 7,H,397,,,,Luisa Bacani
+9/25/2015,8:30:00,Nag,Crack 7,H,1142,,,,Luisa Bacani
 9/25/2015,8:30:00,Nag,Crack 9,H,36.5,,,,Luisa Bacani
 9/25/2015,9:18:00,Nur,Crack 1,N,96,Y,taas ng bundok,,Jocelyn Taroy
 9/25/2015,8:00:00,Sin,Crack 1,N,20.2,Y,Malapit sa sensor,Rainy,Cristina Dolinen
@@ -6867,8 +6847,7 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 9/29/2015,9:00:00,Nag,Crack 5,N,618,,,,Luisa Bacani
 9/29/2015,9:00:00,Nag,Crack 6,H,575,,,,Luisa Bacani
 9/29/2015,9:00:00,Nag,Crack 6,V,391,,,,Luisa Bacani
-9/29/2015,9:00:00,Nag,Crack 7,H,750,,,,Luisa Bacani
-9/29/2015,9:00:00,Nag,Crack 7,V,385,,,,Luisa Bacani
+9/29/2015,9:00:00,Nag,Crack 7,H,1135,,,,Luisa Bacani
 9/29/2015,9:00:00,Nag,Crack 9,N,36.5,,,,Luisa Bacani
 9/29/2015,9:00:00,Nin,Crack A,N,93.9,Y,Malapit sa puno ng durian (LM),,Nictor Bisnar/Roy
 9/29/2015,9:00:00,Nin,Crack B,N,218.2,Y,Pinakamalapit sa durian (LM),,Nictor Bisnar/Roy
@@ -6986,10 +6965,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 10/2/2015,12:00:00,Nag,Crack 3,,30.1,,,,Luisa Bacani
 10/2/2015,12:00:00,Nag,Crack 4,,29,,,,Luisa Bacani
 10/2/2015,12:00:00,Nag,Crack 5,,378.4,,,,Luisa Bacani
-10/2/2015,12:00:00,Nag,Crack 6,Ab,552,,,,Luisa Bacani
-10/2/2015,12:00:00,Nag,Crack 6,Bc,394,,,,Luisa Bacani
-10/2/2015,12:00:00,Nag,Crack 7,Ab,745,,,,Luisa Bacani
-10/2/2015,12:00:00,Nag,Crack 7,Bc,397,,,,Luisa Bacani
+10/2/2015,12:00:00,Nag,Crack 6,Ab,946,,,,Luisa Bacani
+10/2/2015,12:00:00,Nag,Crack 7,Ab,1142,,,,Luisa Bacani
 10/2/2015,9:00:00,Nin,Crack A,N,94,Y,Malapit sa puno ng durian (LM),,Nictor
 10/2/2015,9:00:00,Nin,Crack B,N,218.2,Y,Pinakamalapit sa durian (LM),,Nictor
 10/2/2015,9:00:00,Nin,Crack C,N,115.3,Y,Malapit sa scarp (LM),,Nictor
@@ -7110,8 +7087,7 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 10/6/2015,9:13:00,Nag,Crack 5,N,378.4,,,,Luisa Bacani
 10/6/2015,9:13:00,Nag,Crack 6,H,552.6,,,,Luisa Bacani
 10/6/2015,9:13:00,Nag,Crack 6,V,394.6,,,,Luisa Bacani
-10/6/2015,9:13:00,Nag,Crack 7,H,745,,,,Luisa Bacani
-10/6/2015,9:13:00,Nag,Crack 7,V,397,,,,Luisa Bacani
+10/6/2015,9:13:00,Nag,Crack 7,H,1142,,,,Luisa Bacani
 10/6/2015,9:13:00,Nag,Crack 9,N,19,,,,Luisa Bacani
 10/6/2015,7:29:00,Nur,Crack 1,N,96,Y,taas ng bundok,Maaraw,Jocelyn Taroy
 10/6/2015,9:00:00,Osl,Crack 1,N,200,,,,
@@ -7278,10 +7254,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 10/13/2015,9:42:00,Nag,Crack 3,,30.1,,,,
 10/13/2015,9:42:00,Nag,Crack 4,,29,,,,
 10/13/2015,9:42:00,Nag,Crack 5,,378.4,,,,
-10/13/2015,9:42:00,Nag,Crack 6,,552,,,,
-10/13/2015,9:42:00,Nag,Crack 6,,394.6,,,,
-10/13/2015,9:42:00,Nag,Crack 7,,754,,,,
-10/13/2015,9:42:00,Nag,Crack 7,,397,,,,
+10/13/2015,9:42:00,Nag,Crack 6,,946.6,,,,
+10/13/2015,9:42:00,Nag,Crack 7,,1151,,,,
 10/13/2015,9:42:00,Nag,Crack 8,,19.2,,,,
 10/13/2015,10:12:00,Nur,Crack 1,N,96,,taas ng bundok,,Jocelyn Taroy
 10/13/2015,9:00:00,Osl,Crack 1,N,200,,,,
@@ -7438,10 +7412,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 10/16/2015,10:22:00,Nag,Crack 3,,30.1,,,,
 10/16/2015,10:22:00,Nag,Crack 4,,29,,,,
 10/16/2015,10:22:00,Nag,Crack 5,,378.4,,,,
-10/16/2015,10:22:00,Nag,Crack 6,,552,,,,
-10/16/2015,10:22:00,Nag,Crack 6,,394.6,,,,
-10/16/2015,10:22:00,Nag,Crack 7,,754,,,,
-10/16/2015,10:22:00,Nag,Crack 7,,397,,,,
+10/16/2015,10:22:00,Nag,Crack 6,,946.6,,,,
+10/16/2015,10:22:00,Nag,Crack 7,,1151,,,,
 10/16/2015,10:22:00,Nag,Crack 8,,19.2,,,,
 10/16/2015,10:46:00,Lay,Crack A,,88.5,,taniman ng talong,,
 10/16/2015,10:46:00,Lay,Crack B,,69,,sa baba ng tower,,
@@ -7674,10 +7646,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 10/20/2015,8:00:00,Nag,Crack 3,,30.1,,,,
 10/20/2015,8:00:00,Nag,Crack 4,,29,,,,
 10/20/2015,8:00:00,Nag,Crack 5,,378.4,,,,
-10/20/2015,8:00:00,Nag,Crack 6,,552,,,,
-10/20/2015,8:00:00,Nag,Crack 6,,394.6,,,,
-10/20/2015,8:00:00,Nag,Crack 7,,754,,,,
-10/20/2015,8:00:00,Nag,Crack 7,,397,,,,
+10/20/2015,8:00:00,Nag,Crack 6,,946.6,,,,
+10/20/2015,8:00:00,Nag,Crack 7,,1151,,,,
 10/20/2015,8:00:00,Nag,Crack 8,,19.2,,,,
 10/20/2015,8:00:00,Tue,Crack A,,35.2,,,,
 10/20/2015,8:00:00,Tue,Crack B,,44.2,,,,
@@ -7999,8 +7969,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 10/30/2015,12:00:00,Nag,Crack 3,,30.4,,,,
 10/30/2015,12:00:00,Nag,Crack 4,,29.3,,,,
 10/30/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-10/30/2015,12:00:00,Nag,Crack 6,,Ab - 552.6 Bc - 394.6,,,,
-10/30/2015,12:00:00,Nag,Crack 7,,Ab - 745 Bc - 397,,,,
+10/30/2015,12:00:00,Nag,Crack 6,,947.2,,,,
+10/30/2015,12:00:00,Nag,Crack 7,,1142,,,,
 10/30/2015,12:00:00,Osl,Crack 1,,200,,,,
 10/30/2015,12:00:00,Osl,Crack 2,,100,,,,
 10/30/2015,12:00:00,Osl,Crack 3,,100,,,,
@@ -8050,10 +8020,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 11/3/2015,12:00:00,Nag,Crack 3,,30.4,,,,
 11/3/2015,12:00:00,Nag,Crack 4,,29.3,,,,
 11/3/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-11/3/2015,12:00:00,Nag,Crack 6,,552.6,,,,
-11/3/2015,12:00:00,Nag,Crack 6,,394.6,,,,
-11/3/2015,12:00:00,Nag,Crack 7,,745,,,,
-11/3/2015,12:00:00,Nag,Crack 7,,397,,,,
+11/3/2015,12:00:00,Nag,Crack 6,,947.2,,,,
+11/3/2015,12:00:00,Nag,Crack 7,,1142,,,,
 11/3/2015,12:00:00,Nag,Crack 8,,19.3,,,,
 11/3/2015,12:00:00,Nag,Crack 9,,36.6,,,,
 11/3/2015,12:00:00,Cud,Crack A,N,32.2,Y,,,
@@ -8187,10 +8155,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 11/6/2015,12:00:00,Nag,Crack 3,,30.4,,,,
 11/6/2015,12:00:00,Nag,Crack 4,,29.3,,,,
 11/6/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-11/6/2015,12:00:00,Nag,Crack 6,Ab,552.6,,,,
-11/6/2015,12:00:00,Nag,Crack 6,Bc,394.6,,,,
-11/6/2015,12:00:00,Nag,Crack 7,Ab,745,,,,
-11/6/2015,12:00:00,Nag,Crack 7,Bc,397,,,,
+11/6/2015,12:00:00,Nag,Crack 6,,947.2,,,,
+11/6/2015,12:00:00,Nag,Crack 7,Ab,1142,,1142,,
 11/6/2015,12:00:00,Nag,Crack 8,,19.8,,,,
 11/6/2015,12:00:00,Nag,Crack 9,,36.6,,,,
 11/6/2015,12:00:00,Nur,Crack 1,,96,,,,
@@ -8297,10 +8263,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 11/10/2015,12:00:00,Nag,Crack 3,,31,,,,
 11/10/2015,12:00:00,Nag,Crack 4,,29.4,,,,
 11/10/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-11/10/2015,12:00:00,Nag,Crack 6,Ab,552.6,,,,
-11/10/2015,12:00:00,Nag,Crack 6,Bc,395,,,,
-11/10/2015,12:00:00,Nag,Crack 7,Ab,745,,,,
-11/10/2015,12:00:00,Nag,Crack 7,Bc,397,,,,
+11/10/2015,12:00:00,Nag,Crack 6,,947.6,,,,
+11/10/2015,12:00:00,Nag,Crack 7,Ab,1142,,,,
 11/10/2015,12:00:00,Nag,Crack 8,,20,,,,
 11/10/2015,12:00:00,Nag,Crack 9,,36.8,,,,
 11/10/2015,12:00:00,Nur,Crack 1,,96,,,,
@@ -8513,10 +8477,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 11/17/2015,12:00:00,Nag,Crack 3,,31,,,,
 11/17/2015,12:00:00,Nag,Crack 4,,29.4,,,,
 11/17/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-11/17/2015,12:00:00,Nag,Crack 6,Ab,552.6,,,,
-11/17/2015,12:00:00,Nag,Crack 6,Bc,395,,,,
-11/17/2015,12:00:00,Nag,Crack 7,Ab,746,,,,
-11/17/2015,12:00:00,Nag,Crack 7,Bc,397,,,,
+11/17/2015,12:00:00,Nag,Crack 6,,947.6,,,,
+11/17/2015,12:00:00,Nag,Crack 7,Ab,1143,,,,
 11/17/2015,12:00:00,Nag,Crack 8,,20,,,,
 11/17/2015,12:00:00,Nag,Crack 9,,36.8,,,,
 11/17/2015,12:00:00,Nur,Crack 1,,96,,,,
@@ -8714,10 +8676,9 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 11/24/2015,9:54:00,Nag,Crack 3,,31,,,,
 11/24/2015,9:54:00,Nag,Crack 4,,29.4,,,,
 11/24/2015,9:54:00,Nag,Crack 5,,378.4,,,,
-11/24/2015,9:54:00,Nag,Crack 6,Ab,556,,,,
-11/24/2015,9:54:00,Nag,Crack 6,Bc,395,,,,
-11/24/2015,9:54:00,Nag,Crack 7,Ab,746,,,,
-11/24/2015,9:54:00,Nag,Crack 7,Bc,397,,,,
+11/24/2015,9:54:00,Nag,Crack 6,,951,,,,
+11/24/2015,9:54:00,Nag,Crack 7,Ab,1143,,,,
+11/24/2015,9:54:00,Nag,Crack 7,Bc,,,,,
 11/24/2015,9:54:00,Nag,Crack 8,,20,,,,
 11/24/2015,9:54:00,Nag,Crack 9,,36.8,,,,
 11/24/2015,12:00:00,Nur,Crack 1,,96,,,,
@@ -8744,10 +8705,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 11/25/2015,12:00:00,Nag,Crack 3,,31,,,,
 11/25/2015,12:00:00,Nag,Crack 4,,29.4,,,,
 11/25/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-11/25/2015,12:00:00,Nag,Crack 6,Ab,556,,,,
-11/25/2015,12:00:00,Nag,Crack 6,Bc,395,,,,
-11/25/2015,12:00:00,Nag,Crack 7,Ab,746,,,,
-11/25/2015,12:00:00,Nag,Crack 7,Bc,397,,,,
+11/25/2015,12:00:00,Nag,Crack 6,,951,,,,
+11/25/2015,12:00:00,Nag,Crack 7,Ab,1143,1143,,,
 11/25/2015,12:00:00,Nag,Crack 8,,20,,,,
 11/25/2015,12:00:00,Nag,Crack 9,,36.8,,,,
 11/25/2015,12:00:00,Bat,Crack A,,138.1,,,,
@@ -8770,10 +8729,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 11/25/2015,8:00:00,Nag,Crack 3,,31,,,,
 11/25/2015,8:00:00,Nag,Crack 4,,29.4,,,,
 11/25/2015,8:00:00,Nag,Crack 5,,378.4,,,,
-11/25/2015,8:00:00,Nag,Crack 6,Ab,556,,,,
-11/25/2015,8:00:00,Nag,Crack 6,Bc,395,,,,
-11/25/2015,8:00:00,Nag,Crack 7,Ab,746,,,,
-11/25/2015,8:00:00,Nag,Crack 7,Bc,397,,,,
+11/25/2015,8:00:00,Nag,Crack 6,,951,,,,
+11/25/2015,8:00:00,Nag,Crack 7,Ab,1143,1143,,,
 11/25/2015,8:00:00,Nag,Crack 8,,20,,,,
 11/25/2015,8:00:00,Nag,Crack 9,,36.8,,,,
 11/26/2015,8:00:00,Bat,Crack A,,137.5,,,,
@@ -8931,10 +8888,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 12/1/2015,9:49:00,Nag,Crack 3,,31,,,,
 12/1/2015,9:49:00,Nag,Crack 4,,29.4,,,,
 12/1/2015,9:49:00,Nag,Crack 5,,378.4,,,,
-12/1/2015,9:49:00,Nag,Crack 6,Ab,556,,,,
-12/1/2015,9:49:00,Nag,Crack 6,Bc,395,,,,
-12/1/2015,9:49:00,Nag,Crack 7,Ab,746,,,,
-12/1/2015,9:49:00,Nag,Crack 7,Bc,397,,,,
+12/1/2015,9:49:00,Nag,Crack 6,,951,,,,
+12/1/2015,9:49:00,Nag,Crack 7,Ab,1143,1143,,,
 12/1/2015,9:49:00,Nag,Crack 8,,20,,,,
 12/1/2015,9:49:00,Nag,Crack 9,,36.8,,,,
 12/1/2015,9:00:00,Osl,Crack 1,,200,,,,
@@ -9072,10 +9027,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 12/8/2015,12:00:00,Nag,Crack 3,,31,,,,
 12/8/2015,12:00:00,Nag,Crack 4,,29.4,,,,
 12/8/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-12/8/2015,12:00:00,Nag,Crack 6,Ab,556,,,,
-12/8/2015,12:00:00,Nag,Crack 6,Bc,395,,,,
-12/8/2015,12:00:00,Nag,Crack 7,Ab,746,,,,
-12/8/2015,12:00:00,Nag,Crack 7,Bc,397,,,,
+12/8/2015,12:00:00,Nag,Crack 6,,951,,,,
+12/8/2015,12:00:00,Nag,Crack 7,Ab,1143,1143,,,
 12/8/2015,12:00:00,Nur,Crack 1,,96,,,,
 12/8/2015,12:00:00,Osl,Crack 1,,200,,,,
 12/8/2015,12:00:00,Osl,Crack 2,,100,,,,
@@ -9195,10 +9148,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 12/15/2015,12:00:00,Nag,Crack 3,,31,,,,
 12/15/2015,12:00:00,Nag,Crack 4,,30,,,,
 12/15/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-12/15/2015,12:00:00,Nag,Crack 6,Ab,556,,,,
-12/15/2015,12:00:00,Nag,Crack 6,Bc,395,,,,
-12/15/2015,12:00:00,Nag,Crack 7,Ab,746,,,,
-12/15/2015,12:00:00,Nag,Crack 7,Bc,397,,,,
+12/15/2015,12:00:00,Nag,Crack 6,,951,,,,
+12/15/2015,12:00:00,Nag,Crack 7,Ab,1143,1143,,,
 12/15/2015,12:00:00,Nag,Crack 8,,20,,,,
 12/15/2015,12:00:00,Nag,Crack 9,,36.8,,,,
 12/15/2015,12:00:00,Nur,Crack 1,,96,,,,
@@ -9234,10 +9185,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 12/18/2015,9:30:00,Nag,Crack 3,,31,,,,
 12/18/2015,9:30:00,Nag,Crack 4,,30,,,,
 12/18/2015,9:30:00,Nag,Crack 5,,378.4,,,,
-12/18/2015,9:30:00,Nag,Crack 6,Ab,556,,,,
-12/18/2015,9:30:00,Nag,Crack 6,Bc,395,,,,
-12/18/2015,9:30:00,Nag,Crack 7,Ab,746,,,,
-12/18/2015,9:30:00,Nag,Crack 7,Bc,400,,,,
+12/18/2015,9:30:00,Nag,Crack 6,,951,,,,
+12/18/2015,9:30:00,Nag,Crack 7,Ab,1146,1146,,,
 12/18/2015,9:30:00,Nag,Crack 8,,21,,,,
 12/18/2015,9:30:00,Nag,Crack 9,,36.8,,,,
 12/18/2015,9:00:00,Bat,Crack A,,137.2,,,,
@@ -9252,10 +9201,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 12/18/2015,12:00:00,Nag,Crack 3,,31,,,,
 12/18/2015,12:00:00,Nag,Crack 4,,30,,,,
 12/18/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-12/18/2015,12:00:00,Nag,Crack 6,Ab,556,,,,
-12/18/2015,12:00:00,Nag,Crack 6,Bc,395,,,,
-12/18/2015,12:00:00,Nag,Crack 7,Ab,746,,,,
-12/18/2015,12:00:00,Nag,Crack 7,Bc,400,,,,
+12/18/2015,12:00:00,Nag,Crack 6,,951,,,,
+12/18/2015,12:00:00,Nag,Crack 7,Ab,1146,1146,,,
 12/18/2015,12:00:00,Nag,Crack 8,,21,,,,
 12/18/2015,12:00:00,Nag,Crack 9,,36.8,,,,
 12/18/2015,16:00:00,Nag,Crack 1,,25.2,,,,
@@ -9263,10 +9210,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 12/18/2015,16:00:00,Nag,Crack 3,,31,,,,
 12/18/2015,16:00:00,Nag,Crack 4,,30,,,,
 12/18/2015,16:00:00,Nag,Crack 5,,378.4,,,,
-12/18/2015,16:00:00,Nag,Crack 6,Ab,556,,,,
-12/18/2015,16:00:00,Nag,Crack 6,Bc,395,,,,
-12/18/2015,16:00:00,Nag,Crack 7,Ab,746,,,,
-12/18/2015,16:00:00,Nag,Crack 7,Bc,400,,,,
+12/18/2015,16:00:00,Nag,Crack 6,,951,,,,
+12/18/2015,16:00:00,Nag,Crack 7,Ab,1146,,,,
 12/18/2015,16:00:00,Nag,Crack 8,,21,,,,
 12/18/2015,16:00:00,Nag,Crack 9,,36.8,,,,
 12/18/2015,17:15:00,Ina,Crack Maling,,87.8,,,,
@@ -9343,8 +9288,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 12/19/2015,8:00:00,Nag,Crack 3,,31,,,,
 12/19/2015,8:00:00,Nag,Crack 4,,30,,,,
 12/19/2015,8:00:00,Nag,Crack 5,,378.4,,,,
-12/19/2015,8:00:00,Nag,Crack 6,,556; 395,,,,
-12/19/2015,8:00:00,Nag,Crack 7,,746; 400,,,,
+12/19/2015,8:00:00,Nag,Crack 6,,951,,,,
+12/19/2015,8:00:00,Nag,Crack 7,,1146,,,,
 12/19/2015,8:00:00,Nag,Crack 8,,21,,,,
 12/19/2015,8:00:00,Nag,Crack 9,,36.8,,,,
 12/19/2015,12:00:00,Nag,Crack 1,,25.2,,,,
@@ -9352,8 +9297,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 12/19/2015,12:00:00,Nag,Crack 3,,31,,,,
 12/19/2015,12:00:00,Nag,Crack 4,,30,,,,
 12/19/2015,12:00:00,Nag,Crack 5,,378.4,,,,
-12/19/2015,12:00:00,Nag,Crack 6,,556; 395,,,,
-12/19/2015,12:00:00,Nag,Crack 7,,746; 400,,,,
+12/19/2015,12:00:00,Nag,Crack 6,,951,,,,
+12/19/2015,12:00:00,Nag,Crack 7,,1146,,,,
 12/19/2015,12:00:00,Nag,Crack 8,,21,,,,
 12/19/2015,12:00:00,Nag,Crack 9,,36.8,,,,
 12/20/2015,8:00:00,Bat,Crack A,,142,,,,
@@ -9528,8 +9473,8 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 1/8/2016,12:00:00,Nag,Crack 3,,31,,,,
 1/8/2016,12:00:00,Nag,Crack 4,,30,,,,
 1/8/2016,12:00:00,Nag,Crack 5,,378.4,,,,
-1/8/2016,12:00:00,Nag,Crack 6,,Ab - 556 Bc - 395,,,,
-1/8/2016,12:00:00,Nag,Crack 7,,Ab - 746 Bc - 398.2,,,,
+1/8/2016,12:00:00,Nag,Crack 6,,951,,,,
+1/8/2016,12:00:00,Nag,Crack 7,,1144.2,,,,
 1/8/2016,12:00:00,Nag,Crack 8,,21,,,,
 1/8/2016,12:00:00,Nag,Crack 9,,36,,,,
 1/8/2016,12:00:00,Nur,Crack 1,,96,,,,
@@ -10037,6 +9982,27 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 1/31/2016,10:00:00,Bol,Crack 4,,32,,,,
 1/31/2016,10:00:00,Bol,Crack 5,,20.5,,,,
 1/31/2016,10:00:00,Bol,Crack 6,,31,,,,
+2/2/2016,12:00:00,Bat,Crack A,,141.2,,,,
+2/2/2016,12:00:00,Bat,Crack B,,231,,,,
+2/2/2016,12:00:00,Bat,Crack C,,130.1,,,,
+2/2/2016,12:00:00,Gaa,Crack A,,112,,,,
+2/2/2016,12:00:00,Gaa,Crack B,,250,,,,
+2/2/2016,12:00:00,Hin,Crack A,,55.5,,,,
+2/2/2016,12:00:00,Hin,Crack B,,65.4,,,,
+2/2/2016,12:00:00,Hin,Crack C,,56.4,,,,
+2/2/2016,12:00:00,Lip,Bitak 1,,87,,,,
+2/2/2016,12:00:00,Lip,Bitak 2,,150.7,,,,
+2/2/2016,12:00:00,Lip,Bitak Anas,,295,,,,
+2/2/2016,12:00:00,Man,Crack A,,64.8,,,,
+2/2/2016,12:00:00,Man,Crack B1,,13,,,,
+2/2/2016,12:00:00,Man,Crack B2,,79.5,,,,
+2/2/2016,12:00:00,Man,Crack C,,53.8,,,,
+2/2/2016,12:00:00,Messb,Crack A,,93,,,,
+2/2/2016,12:00:00,Messb,Crack B,,317,,,,
+2/2/2016,12:00:00,Messb,Crack C,,114,,,,
+2/2/2016,12:00:00,Messb,Crack D,,145,,,,
+2/2/2016,12:00:00,Messb,Crack E,,209,,,,
+2/2/2016,12:00:00,Messb,Crack F,,250,,,,
 2/2/2016,12:00:00,Lay,Crack A,,87.9,,,,
 2/2/2016,12:00:00,Lay,Crack B,,69.7,,,,
 2/2/2016,12:00:00,Lay,Crack C,,65.6,,,,
@@ -10053,3 +10019,264 @@ Date (yyyy-mm-dd),Time (hh:mm:ss),site,feature,N,measure (cm),reliable,feat desc
 2/3/2016,16:00:00,Lay,Crack B,,69.8,,,,
 2/3/2016,16:00:00,Lay,Crack C,,65.2,,,,
 2/3/2016,16:00:00,Lay,Crack D,,99.2,,,,
+2/3/2016,12:00:00,Bak,Crack A,,153,,,,
+2/3/2016,12:00:00,Bak,Crack B,,135,,,,
+2/3/2016,12:00:00,Bak,Crack C,,19,,,,
+2/3/2016,12:00:00,Bak,Marker 4,,109,,,,
+2/3/2016,12:00:00,Blc,Crack M,,70,,,,
+2/3/2016,12:00:00,Blc,Crack H,,78,,,,
+2/3/2016,12:00:00,Cud,Crack A,,32.2,,,,
+2/3/2016,12:00:00,Cud,Crack B,,8.8,,,,
+2/3/2016,12:00:00,Cud,Crack C,,10.5,,,,
+2/3/2016,12:00:00,Cud,Crack D,,23.4,,,,
+2/3/2016,12:00:00,Cud,Crack E,,10.5,,,,
+2/3/2016,12:00:00,Lab,Crack 1,,86,,,,
+2/3/2016,12:00:00,Lab,Crack 2,,50,,,,
+2/3/2016,12:00:00,Lab,Crack 3,,85,,,,
+2/3/2016,12:00:00,Lab,Crack 4,,132.5,,,,
+2/3/2016,12:00:00,Lab,Crack 5,,101,,,,
+2/3/2016,12:00:00,Mar,Dario,,69.6,,,,
+2/3/2016,12:00:00,Mar,Victoria,,70.6,,,,
+2/3/2016,12:00:00,Mar,Chapel,,56.7,,,,
+2/3/2016,12:00:00,Mar,Leonardo's ricefield,,70.7,,,,
+2/3/2016,12:00:00,Nag,Crack 1,,25.2,,,,
+2/3/2016,12:00:00,Nag,Crack 2,,19.5,,,,
+2/3/2016,12:00:00,Nag,Crack 3,,31,,,,
+2/3/2016,12:00:00,Nag,Crack 4,,30,,,,
+2/3/2016,12:00:00,Nag,Crack 5,,378.4,,,,
+2/3/2016,12:00:00,Nag,Crack 6,,951,,,,
+2/3/2016,12:00:00,Nag,Crack 7,Ab,1143.3,,,,
+2/3/2016,12:00:00,Pep,Crack 1,,66.7,,,,
+2/3/2016,12:00:00,Pep,Crack 2,,89.5,,,,
+2/3/2016,12:00:00,Pep,Crack 3,,87.4,,,,
+2/3/2016,12:00:00,Sag,Crack C,,178.7,,,,
+2/3/2016,12:00:00,Sag,Crack D,,156,,,,
+2/3/2016,12:00:00,Sag,Crack E,,42.8,,,,
+2/3/2016,12:00:00,Sag,Crack F,,83.8,,,,
+2/3/2016,12:00:00,Sag,Crack G,,138.7,,,,
+2/3/2016,12:00:00,Sag,Bulging A,,145.5,,,,
+2/5/2016,12:00:00,Ban,Crack 1,,116.5,,,,
+2/5/2016,12:00:00,Ban,Crack 2,,122,,,,
+2/5/2016,12:00:00,Ban,Crack 3,,156.8,,,,
+2/5/2016,12:00:00,Bat,Crack A,,140.9,,,,
+2/5/2016,12:00:00,Bat,Crack B,,230.5,,,,
+2/5/2016,12:00:00,Bat,Crack C,,130,,,,
+2/5/2016,12:00:00,Bol,Crack 1,,23,,,,
+2/5/2016,12:00:00,Bol,Crack 2,,40,,,,
+2/5/2016,12:00:00,Bol,Crack 3,,16.5,,,,
+2/5/2016,12:00:00,Bol,Crack 4,,32,,,,
+2/5/2016,12:00:00,Bol,Crack 5,,20.5,,,,
+2/5/2016,12:00:00,Bol,Crack 6,,31,,,,
+2/5/2016,12:00:00,Gam,Crack A,,112,,,,
+2/5/2016,12:00:00,Gam,Crack B,,250,,,,
+2/5/2016,12:00:00,Hin,Crack A,,55.5,,,,
+2/5/2016,12:00:00,Hin,Crack B,,65.4,,,,
+2/5/2016,12:00:00,Hin,Crack C,,56.4,,,,
+2/5/2016,12:00:00,Ime,Crack A,,104,,,,
+2/5/2016,12:00:00,Ime,Crack B,,87.2,,,,
+2/5/2016,12:00:00,Ime,Crack C,,78,,,,
+2/5/2016,12:00:00,Lay,Crack A,,87.3,,,,
+2/5/2016,12:00:00,Lay,Crack B,,69.5,,,,
+2/5/2016,12:00:00,Lay,Crack C,,65.6,,,,
+2/5/2016,12:00:00,Lay,Crack D,,99.5,,,,
+2/5/2016,12:00:00,Lip,Bitak 1,,87,,,,
+2/5/2016,12:00:00,Lip,Bitak 2,,150.7,,,,
+2/5/2016,12:00:00,Lip,Bitak Anas,,295,,,,
+2/5/2016,12:00:00,Lpa,Crack A,,114.2,,,,
+2/5/2016,12:00:00,Lpa,Crack B,,47.2,,,,
+2/5/2016,12:00:00,Lpa,Crack C,,71.2,,,,
+2/5/2016,12:00:00,Lun,Crack A,,144,,,,
+2/5/2016,12:00:00,Lun,Crack B,,102,,,,
+2/5/2016,12:00:00,Lun,Crack C,,106,,,,
+2/5/2016,12:00:00,Man,Crack A,,64.8,,,,
+2/5/2016,12:00:00,Man,Crack B1,,13,,,,
+2/5/2016,12:00:00,Man,Crack B2,,79.5,,,,
+2/5/2016,12:00:00,Man,Crack C,,53.9,,,,
+2/5/2016,12:00:00,Messb,Crack A,,93,,,,
+2/5/2016,12:00:00,Messb,Crack B,,307.6,,,,
+2/5/2016,12:00:00,Messb,Crack C,,114,,,,
+2/5/2016,12:00:00,Messb,Crack D,,149,,,,
+2/5/2016,12:00:00,Messb,Crack E,,209,,,,
+2/5/2016,12:00:00,Messb,Crack F,,250,,,,
+2/5/2016,12:00:00,Nur,Crack 1,,96,,,,
+2/5/2016,12:00:00,Pob,Observation Point 1,,47.6,,,,
+2/5/2016,12:00:00,Pob,Observation Point 2,,106.6,,,,
+2/5/2016,12:00:00,Sum,Crack 1,,150,,,,
+2/5/2016,12:00:00,Sum,Crack Saging,,166,,,,
+1/1/2016,12:00:00,Bar,Crack 1,,76.2,,,,
+1/1/2016,12:00:00,Bar,Crack 2,,88.4,,,,
+1/1/2016,12:00:00,Bar,Crack 3,,91.4,,,,
+1/1/2016,12:00:00,Bar,Crack 4,,91.2,,,,
+1/5/2016,12:00:00,Bar,Crack 1,,76.3,,,,
+1/5/2016,12:00:00,Bar,Crack 2,,88.4,,,,
+1/5/2016,12:00:00,Bar,Crack 3,,91.4,,,,
+1/5/2016,12:00:00,Bar,Crack 4,,91.2,,,,
+1/5/2016,12:00:00,Bar,Crack 5,,145.1,,,,
+1/8/2016,12:00:00,Bar,Crack 1,,76.3,,,,
+1/8/2016,12:00:00,Bar,Crack 2,,89.4,,,,
+1/8/2016,12:00:00,Bar,Crack 3,,91.3,,,,
+1/8/2016,12:00:00,Bar,Crack 4,,91.4,,,,
+1/8/2016,12:00:00,Bar,Crack 5,,145.1,,,,
+1/12/2016,12:00:00,Bar,Crack 1,,76.4,,,,
+1/12/2016,12:00:00,Bar,Crack 2,,89.3,,,,
+1/12/2016,12:00:00,Bar,Crack 3,,92.1,,,,
+1/12/2016,12:00:00,Bar,Crack 4,,91.3,,,,
+1/12/2016,12:00:00,Bar,Crack 5,,145.1,,,,
+1/15/2016,12:00:00,Bar,Crack 1,,76.3,,,,
+1/15/2016,12:00:00,Bar,Crack 2,,88.4,,,,
+1/15/2016,12:00:00,Bar,Crack 3,,91.4,,,,
+1/15/2016,12:00:00,Bar,Crack 4,,91.4,,,,
+1/15/2016,12:00:00,Bar,Crack 5,,145.1,,,,
+1/19/2016,12:00:00,Bar,Crack 1,,76.3,,,,
+1/19/2016,12:00:00,Bar,Crack 2,,88.3,,,,
+1/19/2016,12:00:00,Bar,Crack 3,,92.1,,,,
+1/19/2016,12:00:00,Bar,Crack 4,,91.3,,,,
+2/10/2016,10:00:00,Nag,Crack 1,,25,,,,
+2/10/2016,10:00:00,Nag,Crack 2,,19.5,,,,
+2/10/2016,10:00:00,Nag,Crack 3,,31,,,,
+2/10/2016,10:00:00,Nag,Crack 4,,29,,,,
+2/10/2016,10:00:00,Nag,Crack 5,,378,,,,
+2/10/2016,10:00:00,Nag,Crack 6,,946.7,,,,
+2/10/2016,10:00:00,Nag,Crack 7,Ab,1139,,,,
+2/10/2016,10:00:00,Nag,Crack 8,,20,,,,
+2/10/2016,12:00:00,Bak,Crack A,,153,,,,
+2/10/2016,12:00:00,Bak,Crack B,,135,,,,
+2/10/2016,12:00:00,Bak,Crack C,,19,,,,
+2/10/2016,12:00:00,Bak,Marker 4,,109,,,,
+2/10/2016,12:00:00,Blc,Crack M,,70,,,,
+2/10/2016,12:00:00,Blc,Crack H,,78,,,,
+2/10/2016,12:00:00,Cud,Crack A,,32.2,,,,
+2/10/2016,12:00:00,Cud,Crack B,,8.8,,,,
+2/10/2016,12:00:00,Cud,Crack C,,10.5,,,,
+2/10/2016,12:00:00,Cud,Crack D,,23.4,,,,
+2/10/2016,12:00:00,Cud,Crack E,,10.5,,,,
+2/10/2016,12:00:00,Imu,Crack Edwin,,97.2,,,,
+2/10/2016,12:00:00,Imu,Crack Orong,,142.7,,,,
+2/10/2016,12:00:00,Imu,Crack Angkwan,,130.7,,,,
+2/10/2016,12:00:00,Ina,Crack Maling,,90,,,,
+2/10/2016,12:00:00,Ina,Crack Eley,,60.8,,,,
+2/10/2016,12:00:00,Ina,Crack Osit 1,,73.8,,,,
+2/10/2016,12:00:00,Ina,Crack Osit 2,,17,,,,
+2/10/2016,12:00:00,Ina,Crack Osit 3,,9.2,,,,
+2/10/2016,12:00:00,Ina,Crack Kris,,28.3,,,,
+2/10/2016,12:00:00,Lab,Crack 1,,86,,,,
+2/10/2016,12:00:00,Lab,Crack 2,,50,,,,
+2/10/2016,12:00:00,Lab,Crack 3,,85,,,,
+2/10/2016,12:00:00,Lab,Crack 4,,132.5,,,,
+2/10/2016,12:00:00,Lab,Crack 5,,101,,,,
+2/10/2016,12:00:00,Mar,Dario,,69.6,,,,
+2/10/2016,12:00:00,Mar,Victoria,,70.6,,,,
+2/10/2016,12:00:00,Mar,Chapel,,56.7,,,,
+2/10/2016,12:00:00,Mar,Leonardo's ricefield,,70.7,,,,
+2/10/2016,12:00:00,Pep,Crack 1,,66.7,,,,
+2/10/2016,12:00:00,Pep,Crack 2,,89.5,,,,
+2/10/2016,12:00:00,Pep,Crack 3,,87.4,,,,
+2/10/2016,12:00:00,Sag,Crack C,,178.9,,,,
+2/10/2016,12:00:00,Sag,Crack D,,156,,,,
+2/10/2016,12:00:00,Sag,Crack E,,42.8,,,,
+2/10/2016,12:00:00,Sag,Crack F,,83.8,,,,
+2/10/2016,12:00:00,Sag,Crack G,,138.7,,,,
+2/10/2016,12:00:00,Sag,Bulging A,,145.5,,,,
+2/10/2016,12:00:00,Tue,Crack A,,34.5,,,,
+2/10/2016,12:00:00,Tue,Crack B,,44.7,,,,
+2/10/2016,12:00:00,Tue,Crack C,,103,,,,
+2/10/2016,12:00:00,Tue,Crack D,,112.4,,,,
+2/10/2016,12:00:00,Tue,Crack E,,134.5,,,,
+2/10/2016,12:00:00,Nag,Crack 1,,25,,,,
+2/10/2016,12:00:00,Nag,Crack 2,,19.5,,,,
+2/10/2016,12:00:00,Nag,Crack 3,,31,,,,
+2/10/2016,12:00:00,Nag,Crack 4,,29,,,,
+2/10/2016,12:00:00,Nag,Crack 5,,378,,,,
+2/10/2016,12:00:00,Nag,Crack 6,,946.7,,,,
+2/10/2016,12:00:00,Nag,Crack 7,,1139,,,,
+2/10/2016,12:00:00,Nag,Crack 8,,20,,,,
+2/10/2016,12:00:00,Nag,Crack 9,,36,,,,
+2/10/2016,20:00:00,Nag,Crack 1,,25,,,,
+2/10/2016,20:00:00,Nag,Crack 2,,19.5,,,,
+2/10/2016,20:00:00,Nag,Crack 3,,31,,,,
+2/10/2016,20:00:00,Nag,Crack 4,,29,,,,
+2/10/2016,20:00:00,Nag,Crack 5,,378,,,,
+2/10/2016,20:00:00,Nag,Crack 6,,946.7,,,,
+2/10/2016,20:00:00,Nag,Crack 7,,1139,,,,
+2/10/2016,20:00:00,Nag,Crack 8,,20,,,,
+2/10/2016,20:00:00,Nag,Crack 9,,36,,,,
+2/11/2016,8:00:00,Nag,Crack 1,,25,,,,
+2/11/2016,8:00:00,Nag,Crack 2,,19.5,,,,
+2/11/2016,8:00:00,Nag,Crack 3,,31,,,,
+2/11/2016,8:00:00,Nag,Crack 4,,29,,,,
+2/11/2016,8:00:00,Nag,Crack 5,,378,,,,
+2/11/2016,8:00:00,Nag,Crack 6,,946.7,,,,
+2/11/2016,8:00:00,Nag,Crack 7,,1139,,,,
+2/11/2016,8:00:00,Nag,Crack 8,,20,,,,
+2/11/2016,8:00:00,Nag,Crack 9,,36,,,,
+2/12/2016,12:00:00,Agb,Crack 1,,268,,,,
+2/12/2016,12:00:00,Ban,Crack 1,,116.5,,,,
+2/12/2016,12:00:00,Ban,Crack 2,,122,,,,
+2/12/2016,12:00:00,Ban,Crack 3,,156.8,,,,
+2/12/2016,12:00:00,Bat,Crack A,,140.8,,,,
+2/12/2016,12:00:00,Bat,Crack B,,230,,,,
+2/12/2016,12:00:00,Bat,Crack C,,129.8,,,,
+2/12/2016,12:00:00,Bol,Crack 1,,23,,,,
+2/12/2016,12:00:00,Bol,Crack 2,,40,,,,
+2/12/2016,12:00:00,Bol,Crack 3,,16.5,,,,
+2/12/2016,12:00:00,Bol,Crack 4,,32,,,,
+2/12/2016,12:00:00,Bol,Crack 5,,20.5,,,,
+2/12/2016,12:00:00,Bol,Crack 6,,31,,,,
+2/12/2016,12:00:00,Gam,Crack A,,112,,,,
+2/12/2016,12:00:00,Gam,Crack B,,250,,,,
+2/12/2016,12:00:00,Hin,Crack A,,55.5,,,,
+2/12/2016,12:00:00,Hin,Crack B,,65.4,,,,
+2/12/2016,12:00:00,Hin,Crack C,,56.4,,,,
+2/12/2016,12:00:00,Ime,Crack A,,104,,,,
+2/12/2016,12:00:00,Ime,Crack B,,87.2,,,,
+2/12/2016,12:00:00,Ime,Crack C,,78,,,,
+2/12/2016,12:00:00,Lay,Crack A,,87,,,,
+2/12/2016,12:00:00,Lay,Crack B,,69,,,,
+2/12/2016,12:00:00,Lay,Crack C,,66,,,,
+2/12/2016,12:00:00,Lay,Crack D,,100,,,,
+2/12/2016,12:00:00,Lip,Bitak 1,,87,,,,
+2/12/2016,12:00:00,Lip,Bitak 2,,150.7,,,,
+2/12/2016,12:00:00,Lip,Bitak Anas,,295,,,,
+2/12/2016,12:00:00,Lpa,Crack A,,114.2,,,,
+2/12/2016,12:00:00,Lpa,Crack B,,47.2,,,,
+2/12/2016,12:00:00,Lpa,Crack C,,71.2,,,,
+2/12/2016,12:00:00,Man,Crack A,,64.8,,,,
+2/12/2016,12:00:00,Man,Crack B1,,13,,,,
+2/12/2016,12:00:00,Man,Crack B2,,79.8,,,,
+2/12/2016,12:00:00,Man,Crack C,,53.9,,,,
+2/12/2016,12:00:00,Mesta,Crack G,,29,,,,
+2/12/2016,12:00:00,Mesta,Crack H,,30,,,,
+2/12/2016,12:00:00,Mesta,Crack I,,29,,,,
+2/12/2016,12:00:00,Mesta,Crack J,,30,,,,
+2/12/2016,10:30:00,Messb,Crack A,,92.8,,,,
+2/12/2016,10:30:00,Messb,Crack B,,307.8,,,,
+2/12/2016,10:30:00,Messb,Crack C,,113.6,,,,
+2/12/2016,10:30:00,Messb,Crack D,,143.7,,,,
+2/12/2016,10:30:00,Messb,Crack E,,210,,,,
+2/12/2016,10:30:00,Messb,Crack F,,252.6,,,,
+2/12/2016,12:00:00,Nur,Crack 1,,96,,,,
+2/12/2016,12:00:00,Par,Crack A,,64.2,,,,
+2/12/2016,12:00:00,Par,Crack B,,53.4,,,,
+2/12/2016,12:00:00,Par,Crack C,,70,,,,
+2/12/2016,12:00:00,Par,Crack D,,86.1,,,,
+2/12/2016,12:00:00,Sum,Crack 1,,50,,,,
+2/12/2016,12:00:00,Sum,Crack Saging,,166,,,,
+2/15/2016,8:00:00,Man,Crack A,,64.8,,,,
+2/15/2016,8:00:00,Man,Crack B1,,13,,,,
+2/15/2016,8:00:00,Man,Crack B2,,79.5,,,,
+2/15/2016,8:00:00,Man,Crack C,,53.9,,,,
+2/15/2016,12:00:00,Man,Crack A,,64.8,,,,
+2/15/2016,12:00:00,Man,Crack B1,,13,,,,
+2/15/2016,12:00:00,Man,Crack B2,,79.5,,,,
+2/15/2016,12:00:00,Man,Crack C,,53.9,,,,
+2/15/2016,16:00:00,Man,Crack A,,64.8,,,,
+2/15/2016,16:00:00,Man,Crack B1,,13,,,,
+2/15/2016,16:00:00,Man,Crack B2,,79.5,,,,
+2/15/2016,16:00:00,Man,Crack C,,53.9,,,,
+2/16/2016,8:00:00,Man,Crack A,,64.8,,,,
+2/16/2016,8:00:00,Man,Crack B1,,13,,,,
+2/16/2016,8:00:00,Man,Crack B2,,79.5,,,,
+2/16/2016,8:00:00,Man,Crack C,,53.7,,,,
+2/16/2016,12:00:00,Bat,Crack A,,141.5,,,,
+2/16/2016,12:00:00,Bat,Crack B,,231.8,,,,
+2/16/2016,12:00:00,Bat,Crack C,,130,,,,

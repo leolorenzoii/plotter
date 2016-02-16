@@ -145,23 +145,27 @@ def plot_cracks(filename,which_site,zeroed=True):
 
         curax.set_xlim(min_date,max_date)
         plt.xticks(rotation = 45)
-        plt.savefig('C:\Users\Dynaslope\Desktop\plotter\\'+str(sitelist[s])+' Ground Data Plot.png', dpi=600, facecolor ='w', edgecolor = 'w', orientation = 'landscape',mode = 'w',pad_inches = 0.5,bbox_inches = 'tight')
+#        plt.savefig('C:\Users\Dynaslope\Desktop\plotter\\'+str(sitelist[s])+' Ground Data Plot.png', dpi=600, facecolor ='w', edgecolor = 'w', orientation = 'landscape',mode = 'w',pad_inches = 0.5,bbox_inches = 'tight')
             
     
-    fig.tight_layout()
+    fig.tight_layout(pad = 2)
     for i in range(len(all_sites)):
         print "\nSite: {}".format(all_sites[i])
-        for k in range(all_max_feature_name[i]+21):
+        for k in range(all_max_feature_name[i]+39):
             sys.stdout.write('#')
         print ""
-        print "# {:<{}s}     #   p value  #".format('Feature',all_max_feature_name[i])
-        for k in range(all_max_feature_name[i]+21):
+        print "# {:<{}s}     #   p value  #      Result     #".format('Feature',all_max_feature_name[i])
+        for k in range(all_max_feature_name[i]+39):
             sys.stdout.write('-')
         print ""
         for j in range(len(p_value[i])):
 #            print str(all_features[i][j]) + '\t' + str(p_value[i][j]) +'\t'+str(all_num_data[i][j])+'\n'
-            print "# {:<{}s}     #   ".format(str(all_features[i][j]),all_max_feature_name[i]) + "{:<6}   #".format(str(format(round(p_value[i][j],4),'.4f')))
-        for k in range(all_max_feature_name[i]+21):
+            if p_value[i][j] < 0.05:
+                result = 'Significant'
+            else:
+                result = 'Not Significant'
+            print "# {:<{}s}     #   ".format(str(all_features[i][j]),all_max_feature_name[i]) + "{:<6}   # ".format(str(format(round(p_value[i][j],4),'.4f'))) + "{:<15} # ".format(result)
+        for k in range(all_max_feature_name[i]+39):
             sys.stdout.write('#')
         print ""
     
