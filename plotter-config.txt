@@ -1,5 +1,5 @@
 [I/O]
-sites = Lay, Bol
+sites = Blc, Bat
 filename = allsites.csv
 zeroed = False
 

@@ -48,6 +48,7 @@ def plot_cracks(filename,which_site,zeroed=True):
         #getting current site and sorting according to date
         cursite=df[df['Site ID']==sitelist[s]]
         cursite.sort(['Date_Time','Feature ID'],inplace=True)
+        cursite.drop_duplicates(subset = ['Date_Time','Feature ID'],inplace=True)
         cursite[['Measurement']]=cursite[['Measurement']].astype(float)
         print max(cursite['Date_Time'])
         print cursite.tail(20)
@@ -121,11 +122,8 @@ def plot_cracks(filename,which_site,zeroed=True):
                 #getting zeroed displacement
                 curfeature['Measurement_0']=curfeature['Measurement'].values-curfeature['Measurement'].values[0]
                 #plotting zeroed displacement
-                curfeature.plot('Date_Time','Measurement_0',
-                                marker=marker[f%len(marker)],
-                                color=colorVal[f],
-                                label=str(features[f]),
-                                ax=curax)
+                curax.plot(curfeature['Date_Time'].values,curfeature['Measurement_0'],marker=marker[f%len(marker)],color=colorVal[f],label=features[f])
+                curax.grid(True)
                 print features[f]
             else:
                 curax.plot(curfeature['Date_Time'].values,curfeature['Measurement'],marker=marker[f%len(marker)],color=colorVal[f],label=features[f])
