@@ -9,6 +9,14 @@ from scipy import stats
 from datetime import datetime, date, time, timedelta
 import sys
 
+def replace_nin(x):
+    if x == 'Messb':
+        return 'Mes'
+    elif x == 'Nin':
+        return 'Mes'
+    else:
+        return x
+
 def plot_cracks(filename,which_site,zeroed=True):
     all_sites = []
     all_features = []
@@ -24,12 +32,13 @@ def plot_cracks(filename,which_site,zeroed=True):
     df=df[df['Type']!='H']
     df=df[df['Type']!='V']
     df=df[df['Measurement']!=np.nan]
-    df=df[df['Date_Time']!=' ']
     df=df[df['Site ID']!=' ']
     df=df[df['Feature ID']!=np.nan]
     df['Date_Time']=pd.to_datetime(df['Date_Time'])
     df=df.dropna(subset=['Measurement'])
     print np.unique(df['Site ID'].values)
+
+    df['Site ID'] = map(replace_nin,df['Site ID'])
 
     sitelist=np.unique(df['Site ID'].values)
     fig,ax=plt.subplots(nrows=len(which_site),ncols=1,sharex=True)
@@ -138,7 +147,7 @@ def plot_cracks(filename,which_site,zeroed=True):
         curax.set_xlabel('')
         curax.set_ylabel(sitelist[s])
         
-        curax.legend(fontsize='xx-small',loc='best')
+        curax.legend(fontsize='xx-small',loc='upper right')
         ax_ind=ax_ind+1
 
         curax.set_xlim(min_date,max_date)
